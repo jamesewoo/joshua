@@ -1,1 +1,0 @@
-mis[tag=ADJ;num=PL;class=OOV] amigos me llaman
